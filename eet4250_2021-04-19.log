@@ -1,0 +1,15 @@
+INFO:2021-04-19 18:50:21.2386:ConnectionTest.Program.Main:Testing Connection
+DEBUG:2021-04-19 18:50:21.6815:ConnectionTest.Program.Main(Program.cs:17):Connected
+DEBUG:2021-04-19 18:50:21.6973:ConnectionTest.Program.Main(Program.cs:19):Inserting Row for Registrant
+DEBUG:2021-04-19 18:50:21.7968:ConnectionTest.Program.Main(Program.cs:19):Rows Affected: 1
+DEBUG:2021-04-19 18:50:21.7968:ConnectionTest.Program.Main(Program.cs:20):Inserting Row for Ballots
+DEBUG:2021-04-19 18:50:21.8076:ConnectionTest.Program.Main(Program.cs:20):Rows Affected: 1
+DEBUG:2021-04-19 18:50:21.8076:ConnectionTest.Program.Main(Program.cs:21):Inserting Row for Ballot Questions
+DEBUG:2021-04-19 18:50:21.8076:ConnectionTest.Program.Main(Program.cs:21):Rows Affected: 1
+DEBUG:2021-04-19 18:50:21.8076:ConnectionTest.Program.Main(Program.cs:22):Inserting Row for Ballot Questions
+DEBUG:2021-04-19 18:50:21.8222:ConnectionTest.Program.Main(Program.cs:22):Rows Affected: 1
+DEBUG:2021-04-19 18:50:21.8222:ConnectionTest.Program.Main(Program.cs:23):Inserting Row for Registrant Answers
+DEBUG:2021-04-19 18:50:21.8222:ConnectionTest.Program.Main(Program.cs:23):Rows Affected: 1
+DEBUG:2021-04-19 18:50:21.8222:ConnectionTest.Program.Main(Program.cs:24):Inserting Row for Registrant Answers
+DEBUG:2021-04-19 18:50:21.8222:ConnectionTest.Program.Main(Program.cs:24):Rows Affected: 1
+INFO:2021-04-19 18:50:21.8222:ConnectionTest.Program.Main:Completed Successfully
